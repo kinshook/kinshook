@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshook&label=Profile%20views&color=0e75b6&style=flat" alt="kinshook" /> </p>
 
-<p align="center"> 
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kinshook&title=-Followers,-Reviews,-Stars&margin-w=15&margin-h=15" alt="kinshook trophies" />
   </a>
-</p>
+</div>
+
 
 
 
