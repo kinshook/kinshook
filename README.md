@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshook&label=Profile%20views&color=0e75b6&style=flat" alt="kinshook" /> </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/50x1/00000000/00000000" alt="spacer" />
+  <img src="https://via.placeholder.com/50x1/00000000/00000000" alt="" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kinshook&title=-Followers,-Reviews,-Stars&margin-w=15&margin-h=15" alt="kinshook trophies" />
   </a>
