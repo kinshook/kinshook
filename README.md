@@ -5,9 +5,10 @@
 
 <p align="left"> 
   💠<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kinshook&exclude=Followers,Reviews,Stars" alt="kinshook trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kinshook&title=-Followers,-Reviews,-Stars" alt="kinshook trophies" />
   </a>💠
 </p>
+
 
 - 🌱 I’m currently learning **to generate interactive dashboards using python libraries**
 
