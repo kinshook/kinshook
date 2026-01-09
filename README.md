@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **to generate interactive dashboards using python libraries**
 
-- 💬 Ask me about **Neuro Linguistic Programming and Data ETL frameworks**
+- 💬 Ask me about **Neuro Linguistic Programming and its applications, and Data ETL frameworks**
 
 - 📫 How to reach me **kinshookgairola@gmail.com**
 
