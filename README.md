@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kinshook</h1>
-<h3 align="center">A passionate learner with deep interest in data analytics</h3>
+<h3 align="center">A passionate learner with a deep interest in data analytics and cognition, and healing techniques</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshook&label=Profile%20views&color=0e75b6&style=flat" alt="kinshook" /> </p>
 
