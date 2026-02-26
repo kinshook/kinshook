@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **to generate interactive dashboards using python libraries**
+- 🌱 I’m currently learning **to automate workflow using agentic AI**
 
 - 💬 Ask me about **Neuro Linguistic Programming and its applications, and Data ETL frameworks**
 
