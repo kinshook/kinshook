@@ -5,9 +5,9 @@
 
 <p align="right">
   <img src="https://via.placeholder.com/50x1/00000000/00000000" alt="" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kinshook&title=-Followers,-Reviews,-Stars&margin-w=15&margin-h=15" alt="kinshook trophies" />
-  </a>
+  </a> -->
 </p>
 
 
